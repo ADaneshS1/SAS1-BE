@@ -76,16 +76,6 @@ export default function dashboard() {
     >
 
         <div>
-            <h3>Logout:</h3>
-            <button
-              className={styles.bodra}
-              style={{
-                padding:"10px 20px"
-              }}
-              onClick={handleRegistration}
-            >
-              Logout
-            </button>
         </div>
 
         <div>
