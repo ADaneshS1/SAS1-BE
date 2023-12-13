@@ -74,10 +74,6 @@ export default function dashboard() {
         minHeight: "80vh"
       }}
     >
-        <div>
-            <h4>Notes:</h4>
-            <p>{user.name}</p>
-        </div>
 
         <div>
             <h3>Logout:</h3>
